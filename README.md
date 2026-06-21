@@ -8,7 +8,8 @@ Presented is the code for the gene-by-environment analysis, in which modules are
 All the used raw code files used for analysis are found in the repository. Key ones, such as the ones denoted below, as specifically denoted.
 
 For a single example of GxE analysis protocl, as done by tensorQTL, please see - plotting_the_example_plot.R
-for the key file to run tensorQTL to perfrom GxE analysis, please see - run_tensorqtlV2.sh
+For the key file to run tensorQTL to perfrom GxE analysis at scale, please see - run_tensorqtlV2.sh
+For the colocolization GxE analysis, please see - coloc_and_viewV4.R
 
 For any questions or inquires regarding code, please reach out to hkrupkin@stanford.edu and/or smontgom@stanford.edu.
 
