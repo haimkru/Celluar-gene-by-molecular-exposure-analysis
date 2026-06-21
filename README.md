@@ -5,6 +5,8 @@ This github repository contains the code for the manuscript "Mapping Gene-by-Env
 
 Presented is the code for the gene-by-environment analysis, in which modules are derived from the metabolome and proteome are used as proxies for the molecular exposures blood cells experience, thus providing a framework for a genotype by environmentanalysis with the metabolome and proteome as the environment 
 
+For short description of what the code file does, see code_files.csv .
+
 All the used raw code files used for analysis are found in the repository. Key ones, such as the ones denoted below, as specifically denoted.
 
 For a single example of GxE analysis protocl, as done by tensorQTL, please see - plotting_the_example_plot.R
