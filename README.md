@@ -16,7 +16,7 @@ For the colocolization GxE analysis, please see - coloc_and_viewV4.R
 For any questions or inquires regarding code, please reach out to hkrupkin@stanford.edu and/or smontgom@stanford.edu.
 
 Detailed summary statistics as well as supplemntary tables for the manuscript an be found in Zenodo:
-
+10.5281/zenodo.22865894
 
 
 
